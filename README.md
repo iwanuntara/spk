@@ -1,5 +1,5 @@
-"Pengembangan Sistem surat perintah kerja (SPK) berbasis Web"  
-Iwan sugiwan  
+<h3 align="center">"Pengembangan Sistem surat perintah kerja (SPK) berbasis Web" </h3> 
+<h4 align="center">Iwan sugiwan</h4>  
 Iwansugiwan1234@gmail.com  
 Universitas Tangerang Raya  
   
