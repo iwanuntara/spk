@@ -1,0 +1,394 @@
+.dashboard {
+  border-radius: 7px;
+}
+.putih {
+  color: #FFFFFF!important;
+}
+.brand-link {
+  border-bottom: 0px!important;
+}
+.user-panel {
+  padding-bottom: 1rem;
+  border-bottom: 3px solid #27436F!important;
+  border-radius: 23px;
+}
+.tengah {
+  text-align: center;
+}
+.kab {
+  margin-top: -9px;
+}
+.panel-digi {
+    width: 100%;
+}
+.image-digi {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-digi {
+    width: 11rem!important;
+}
+.logo-digi {
+  height: 2rem;
+  width: 5rem;
+}
+.kotak-shadow {
+  border: 1px solid;
+  padding: 5px;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.22);
+}
+.nav-logo {
+  margin-top: -8px;
+}
+.main-header .navbar-custom-menu, .main-header .navbar-right {
+  position: absolute;
+  right: 0;
+  margin-right: 9px;
+}
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header {
+  height: 160px;
+  padding: 10px;
+  text-align: center;
+}
+.user-body {
+  text-align: center;
+}
+.user-panel {
+  margin-left: -7px;
+  margin-right: -6px;
+}
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer {
+  background-color: #f9f9f9;
+  padding: 10px;
+}
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer:before, .navbar-nav>.user-menu>.dropdown-menu>.user-footer:after {
+  content: " ";
+  display: table;
+}
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer .btn-default {
+  color: #666666;
+}
+.pull-left {
+  float: left !important;
+}
+.pull-right {
+  float: right !important;
+}
+.tambah {
+    padding: 15px 25px;
+}
+.btn-profil {
+    text-align: right;
+    padding: 29px 0;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+    border-top-color: #3c8dbc;
+}
+
+
+.nav-tabs-custom {
+    margin-bottom: 20px;
+    background: #fff;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    border-radius: 3px;
+}
+.nav-tabs-custom>.nav-tabs {
+    margin: 0;
+    border-bottom-color: #f4f4f4;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+}
+.nav-tabs-custom>.nav-tabs>li.active {
+    border-top-color: #3c8dbc;
+}
+.nav-tabs-custom>.nav-tabs>li:first-of-type.active>a {
+    border-left-color: transparent;
+}
+.nav-tabs {
+    border-bottom: 1px solid #ddd;
+}
+.nav-tabs-custom>.nav-tabs>li {
+    border-top: 3px solid transparent;
+    margin-bottom: -2px;
+    margin-right: 5px;
+}
+.nav-tabs>li {
+    float: left;
+    margin-bottom: -1px;
+}
+.nav>li {
+    position: relative;
+    display: block;
+}
+.nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.nav::before {
+    display: table;
+    content: " ";
+}
+.nav-tabs-custom>.nav-tabs>li:first-of-type {
+    margin-left: 0;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+.tab-upload {
+    color: #333!important;
+}
+.box-btn-next {
+    text-align: right;
+}
+label.error {
+    color: #dc3545;
+}
+.error {
+  color: #dc3545;
+}
+.sts {
+    font-size: 13px;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 15px;
+}
+.pengajuan {
+    background-color: grey;
+}
+.perbaikan {
+    background-color: red;
+}
+.verifikasi {
+    background-color: orange;
+}
+.koreksi {
+    background-color: orange;
+}
+.mediasi {
+    background-color: orange;
+}
+.tolak {
+    background-color: red;
+}
+.validasi {
+    background-color: orange;
+}
+.tandatangan {
+    background-color: orange;
+}
+.selesai {
+    background-color: #ffb31a;
+}
+.setuju {
+  background-color: green;
+}
+.bg-baru {
+  background-color: #3c8dbc;
+}
+.bg-lama {
+  background-color: #9999ff;
+}
+.box-btn-pkwt {
+    float: right;
+    padding: 17px;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .dropdown-content select {
+    width: 100%;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .subtitle {
+    padding: 15px;
+  }
+  .border-solid {
+    border: solid 1px #333;
+    border-radius: 10px;
+  }
+  .status-progres {
+    margin-left: 17px;
+  }
+  .status-bar {
+    font-size: 15px;
+    color: #fff;
+    padding: 6px 15px;
+    border-radius: 15px;
+  }
+  .status-dok {
+    font-size: 15px;
+    color: #fff;
+    padding: 4px 16px;
+    border-radius: 12px;
+  }
+  .text-upload {
+    font-size: 13px;
+  }
+  .mb {
+    margin-bottom: 0px;
+  }
+  .foot {
+    margin-top: 2rem;
+    border-top: #ccc solid 1px;
+    padding: 10px 0;
+  }
+  .ttd {
+    text-align: right;
+    margin-top: 5rem;
+  }
+  .export {
+    text-align: right;
+    margin-right: 2rem;
+  }
+  .title-status {
+    margin-top: 2rem;
+  }
+  .jumlah {
+    text-align: center;
+  }
+  .btn-cetak {
+    text-align: right;
+    margin-bottom: 1rem;
+  }
+ .btn-filter {
+    margin-bottom: 1rem;
+ }
+ .user-icon {
+  width: 30px;
+ }
+ .user-admin {
+  padding-left: 12px;
+ }
+ .user-header {
+  padding-top: 12px;
+ }
+ .user-role {
+  font-size: 12px;
+  display: block;
+  margin-left: 2.5rem;
+  background-color: #007BFF;
+  color: #FFFFFF;
+  padding: 5px 23px;
+  width: fit-content;
+  border-radius: 7px;
+ }
+ .printPdf {
+  position: relative;
+  text-align: right;
+ }
+ .kandidat {
+  padding: 15px 11px 0;
+ }
+ .select2-container .select2-selection--single {
+  height: 36px!important;
+ }
+ .img-product {
+  width: 200px;
+  height: 150px;
+ }
+ .samadengan {
+  position: relative;
+  text-align: right;
+ }
+ #loading {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: none;
+}
+.penempatan-title {
+  position: relative;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.mb-admin {
+  margin-bottom: -5px;
+}
+.radius {
+  border-radius: 7px;
+}
+#loading img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.timeline {
+  margin: 0 0 10px!important;
+  padding: 0;
+  position: relative;
+}
+.timeline-container {
+  width: 100%;
+  position: relative;
+  margin: 20px 0;
+}
+
+.timeline {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.timeline-item {
+  width: 24%;
+  position: relative;
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+}
+
+.timeline-item.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.timeline-content {
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.btn-menu {
+  background-color: transparent;
+  color: #444;
+  line-height: 0.5 !important;
+}
+.icon-mayora {
+  width: 50px;
+}
+.head-kiri {
+  display: flex;
+  padding: 11px;
+  border: solid 1px;
+}
+.head-kop {
+  border: solid 1px;
+}
+.head-kanan {
+  border: solid 1px;
+}
+.sub-kanan h5 {
+  text-align: center;
+  margin: 0 auto;
+}
